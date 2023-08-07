@@ -1,5 +1,5 @@
 # A_Simple_Web_Scraper
-A school project of applying web scraping on a company review website.
+A simple project of applying web scraping on a company review website.
 
 ## Project Description
 1. Applied `BeautifulSoup` to extract `companyName`, `datePublished`, `ratingValue` and `reviewBody` from a company review website.
